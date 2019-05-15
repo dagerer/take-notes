@@ -1,7 +1,7 @@
-package concurrent;
+package concurrent.singleton;
 
 /**
- * DCL单例模式
+ * DCL单例模式(多线程版单例模式)
  *
  * @author dager
  * @date 2019/5/10

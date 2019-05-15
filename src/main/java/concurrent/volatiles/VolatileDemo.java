@@ -1,4 +1,4 @@
-package concurrent;
+package concurrent.volatiles;
 
 /**
  * 可见性验证
